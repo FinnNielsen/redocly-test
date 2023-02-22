@@ -5,12 +5,12 @@ info:
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
-    url: 'http://example.com/contact'
+    url: 'https://dcsa.org/'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
-    url: 'https://raw.githubusercontent.com/FinnNielsen/redocly-test/main/images/dcsa-logo.png'
+    url: 'https://raw.githubusercontent.com/dcsaorg/DCSA-OpenAPI/redocly-testing/images/dcsa-logo.png'
   description:
     $ref: ./info-description.md
 tags:
