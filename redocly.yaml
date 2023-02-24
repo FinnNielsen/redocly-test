@@ -2,3 +2,5 @@
 apis:
   tnt@v3:
     root: tnt/v3/tnt.yaml
+  sample@v1:
+    root: openapi/openapi.yaml
